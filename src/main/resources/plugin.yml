@@ -1,0 +1,11 @@
+name: Lifegive
+version: '${version}'
+main: me.fonz.Lifegive
+api-version: 1.17
+authors: [ McFonz ]
+commands:
+  hearts:
+    description: Displays any player's hearts
+    permission: lifegive.hearts
+  withdraw:
+    description: Allows players to convert their hearts to items
